@@ -1,30 +1,79 @@
-# Python Projeleri
+# Python Mini Projeleri
 
-Bu depo, çeşitli basit Python programlarını içermektedir. Şu an için aşağıdaki programlar bulunmaktadır:
+Bu depo, Google Colab'de geliştirilmiş birkaç basit Python mini projesini içermektedir.
 
-1.  **Sayı Tahmin Oyunu:** 1 ile 100 arasında rastgele seçilen bir sayıyı tahmin etme oyunu.
-2.  **Hesap Makinesi:** Temel aritmetik işlemlerin yanı sıra karekök, kuvvet ve faktöriyel gibi işlemleri de yapabilen bir hesap makinesi.
-3.  **Döviz Çevirici:** Belirtilen döviz kurlarına göre döviz çevirme işlemi yapar.
+## İçindekiler
 
-## Programları Çalıştırma
+1.  Sayı Tahmin Oyunu
+2.  Hesap Makinesi
+3.  Döviz Çevirisi
+4.  Basit Metin Analiz Aracı
+5.  Mini Adam Asmaca Oyunu
 
-Programları çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
+## Projeler
 
-1.  Bu depoyu yerel makinenize klonlayın veya ZIP olarak indirin.
-2.  Bir Python yorumlayıcısı kurun (eğer kurulu değilse).
-3.  Terminal veya komut istemcisi üzerinden programın bulunduğu dizine gidin.
-4.  İstediğiniz programı çalıştırmak için aşağıdaki komutları kullanın:
+### 1. Sayı Tahmin Oyunu
 
-    -   Sayı Tahmin Oyunu: `python sayi_tahmin_oyunu.py` (Dosya adınız farklı olabilir)
-    -   Hesap Makinesi: `python hesap_makinesi.py` (Dosya adınız farklı olabilir)
-    -   Döviz Çevirici: `python doviz_cevirici.py` (Dosya adınız farklı olabilir)
+1 ile 100 arasında rastgele seçilen bir sayıyı tahmin etmeye çalıştığınız basit bir oyundur. Belirli sayıda hakkınız ve bir skor sisteminiz vardır.
 
-## Kullanım
+**Özellikler:**
 
-Her programın kendine ait etkileşimli bir arayüzü vardır. Program çalıştırıldığında talimatlar ekrana yazdırılacaktır.
+*   Rastgele sayı üretimi.
+*   Kullanıcıdan sayı girişi alma.
+*   Tahminin doğru sayıdan büyük veya küçük olduğunu bildirme.
+*   Kalan hakları ve skoru takip etme.
 
--   **Sayı Tahmin Oyunu:** Oyunu başlatmak için programı çalıştırın ve ekrandaki yönergeleri izleyin.
--   **Hesap Makinesi:** Programı çalıştırın, yapmak istediğiniz işlemi menüden seçin ve istenen sayıları girin.
--   **Döviz Çevirici:** Programı çalıştırın, çevirmek istediğiniz miktarı girin ve yapmak istediğiniz çeviri işlemini menüden seçin.
+### 2. Hesap Makinesi
 
-## Kat
+Temel aritmetik işlemlerin yanı sıra karekök, kare, faktöriyel ve kuvvet alma gibi fonksiyonları içeren basit bir hesap makinesidir.
+
+**Özellikler:**
+
+*   Toplama, Çıkarma, Çarpma, Bölme işlemleri.
+*   Karekök, Kare, Faktöriyel, Kuvvet alma işlemleri.
+*   Sıfıra bölme kontrolü.
+*   Kullanıcı dostu menü.
+
+### 3. Döviz Çevirisi
+
+Belirli döviz kurlarına göre TL ile Dolar, Euro ve Sterlin arasında dönüşüm yapmanızı sağlayan bir araçtır.
+
+**Özellikler:**
+
+*   Önceden tanımlanmış döviz kurları.
+*   Farklı döviz çiftleri arasında dönüşüm yapabilme.
+*   Kullanıcıdan miktar girişi alma.
+
+### 4. Basit Metin Analiz Aracı
+
+Kullanıcının belirttiği bir metin dosyasını okuyarak kelime sayısını ve bazı noktalama işaretlerinin sayısını analiz eden basit bir araçtır.
+
+**Özellikler:**
+
+*   Dosya yolu girişi alma.
+*   Dosya içeriğini okuma.
+*   Kelime sayısını hesaplama.
+*   Belirli noktalama işaretlerinin sayısını bulma (virgül, nokta, soru işareti).
+
+### 5. Mini Adam Asmaca Oyunu
+
+Belirli bir kelime listesinden rastgele seçilen bir kelimeyi tahmin etmeye çalıştığınız basit bir adam asmaca oyunudur.
+
+**Özellikler:**
+
+*   Önceden tanımlanmış kelime listesi.
+*   Rastgele kelime seçimi.
+*   Harf veya kelime tahmin etme seçenekleri.
+*   Kalan hakları ve skoru takip etme.
+*   Yanlış tahminleri gösterme.
+
+## Nasıl Çalıştırılır?
+
+Her bir proje kendi başına çalıştırılabilir. Google Colab'de çalıştırmak için notebook'u açın ve her bir kod bloğunu (cell) çalıştırın. Eğer projeleri yerel bilgisayarınızda çalıştırmak isterseniz, her bir projenin kodunu ayrı bir Python dosyasına kaydederek terminalde çalıştırabilirsiniz.
+
+Örnek olarak, Sayı Tahmin Oyununu çalıştırmak için:
+
+1.  Kod bloğundaki kodu kopyalayın.
+2.  `sayi_tahmin_oyunu.py` gibi bir isimle kaydedin.
+3.  Terminalde şu komutu çalıştırın:
+4.  
