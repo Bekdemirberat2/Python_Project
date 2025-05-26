@@ -8,7 +8,7 @@ Bu depo, Google Colab'de geliştirilmiş birkaç basit Python mini projesini iç
 2.  Hesap Makinesi
 3.  Döviz Çevirisi
 4.  Basit Metin Analiz Aracı
-5.  Mini Adam Asmaca Oyunu
+5.  Basit Hikaye Anlatıcı
 
 ## Projeler
 
@@ -54,6 +54,7 @@ Kullanıcının belirttiği bir metin dosyasını okuyarak kelime sayısını ve
 *   Dosya içeriğini okuma.
 *   Kelime sayısını hesaplama.
 *   Belirli noktalama işaretlerinin sayısını bulma (virgül, nokta, soru işareti).
+### 5.Basit Hikaye Anlatıcı
 
 📖 Açıklama
 Basit Hikaye Anlatıcı, kullanıcılara rastgele oluşturulmuş hikaye parçaları sunarak yaratıcı yazarlık deneyimi kazandıran bir Python uygulamasıdır. Eğlenceli ve interaktif bir şekilde hikaye üretmeyi hedefler.
