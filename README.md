@@ -55,25 +55,34 @@ Kullanıcının belirttiği bir metin dosyasını okuyarak kelime sayısını ve
 *   Kelime sayısını hesaplama.
 *   Belirli noktalama işaretlerinin sayısını bulma (virgül, nokta, soru işareti).
 
-### 5. Mini Adam Asmaca Oyunu
+📖 Açıklama
+Basit Hikaye Anlatıcı, kullanıcılara rastgele oluşturulmuş hikaye parçaları sunarak yaratıcı yazarlık deneyimi kazandıran bir Python uygulamasıdır. Eğlenceli ve interaktif bir şekilde hikaye üretmeyi hedefler.
 
-Belirli bir kelime listesinden rastgele seçilen bir kelimeyi tahmin etmeye çalıştığınız basit bir adam asmaca oyunudur.
+🚀 Özellikler
+Rastgele hikaye üretme
 
-**Özellikler:**
+Farklı hikaye temaları arasından seçim yapma
 
-*   Önceden tanımlanmış kelime listesi.
-*   Rastgele kelime seçimi.
-*   Harf veya kelime tahmin etme seçenekleri.
-*   Kalan hakları ve skoru takip etme.
-*   Yanlış tahminleri gösterme.
+Oluşturulan hikayeleri kaydetme ve paylaşma
 
-## Nasıl Çalıştırılır?
+🔧 Kurulum
+Projeyi çalıştırmak için aşağıdaki adımları takip edin:
 
-Her bir proje kendi başına çalıştırılabilir. Google Colab'de çalıştırmak için notebook'u açın ve her bir kod bloğunu (cell) çalıştırın. Eğer projeleri yerel bilgisayarınızda çalıştırmak isterseniz, her bir projenin kodunu ayrı bir Python dosyasına kaydederek terminalde çalıştırabilirsiniz.
+Gereksinimleri yükleyin:
 
-Örnek olarak, Sayı Tahmin Oyununu çalıştırmak için:
+sh
+pip install -r requirements.txt
+Uygulamayı başlatın:
 
-1.  Kod bloğundaki kodu kopyalayın.
-2.  `sayi_tahmin_oyunu.py` gibi bir isimle kaydedin.
-3.  Terminalde şu komutu çalıştırın:
-4.  
+sh
+python main.py
+✨ Kullanım
+Uygulama başlatıldıktan sonra kullanıcı, belirlenen hikaye temasına uygun olarak rastgele bir hikaye oluşturabilir. Hikayeleri kaydedip paylaşmak mümkündür.
+
+💡 Katkıda Bulunma
+Projeye katkıda bulunmak isteyenler, kodu geliştirebilir ve yeni özellikler ekleyerek pull request gönderebilir. Önerileriniz için lütfen iletişime geçin!
+
+Bu metni ihtiyacınıza göre düzenleyebilirsiniz! Eklemek istediğiniz özel bilgiler varsa bana bildirin. 🚀
+
+
+
