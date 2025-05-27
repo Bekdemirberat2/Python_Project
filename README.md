@@ -9,6 +9,7 @@ Bu depo, Google Colab'de geliştirilmiş birkaç basit Python mini projesini iç
 3.  Döviz Çevirisi
 4.  Basit Metin Analiz Aracı
 5.  Basit Hikaye Anlatıcı
+6.  Kapsamlı Birim Dönüştürücü
 
 ## Projeler
 
