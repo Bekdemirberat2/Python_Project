@@ -8,8 +8,7 @@ Bu depo, Google Colab'de geliştirilmiş birkaç basit Python mini projesini iç
 2.  Hesap Makinesi
 3.  Döviz Çevirisi
 4.  Basit Metin Analiz Aracı
-5.  Basit Hikaye Anlatıcı
-6.  Kapsamlı Birim Dönüştürücü
+5.  Kapsamlı Birim Dönüştürücü
 
 ## Projeler
 
@@ -55,17 +54,8 @@ Kullanıcının belirttiği bir metin dosyasını okuyarak kelime sayısını ve
 *   Dosya içeriğini okuma.
 *   Kelime sayısını hesaplama.
 *   Belirli noktalama işaretlerinin sayısını bulma (virgül, nokta, soru işareti).
-### 5.Basit Hikaye Anlatıcı
 
-*  Basit Hikaye Anlatıcı, rastgele oluşturulmuş hikaye parçaları sunarak yaratıcı yazarlık deneyimi kazandıran bir Python uygulamasıdır.
-
-*  Rastgele Hikaye Üretme: Kullanıcılar belirli temalara uygun olarak rastgele hikayeler oluşturabilir.
-
-*  Tema Seçenekleri: Farklı hikaye temaları arasından seçim yapma imkanı sunar.
-
-*  Hikaye Kaydetme ve Paylaşma: Üretilen hikayeler kaydedilip paylaşılabilir.
-
-### 6.Kapsamlı Birim Dönüştürücü
+### 5.Kapsamlı Birim Dönüştürücü
 
 *  Kapsamlı Birim Dönüştürücü, farklı ölçü birimlerini kolayca birbirine çeviren bir araçtır.
 
