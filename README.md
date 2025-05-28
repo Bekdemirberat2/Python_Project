@@ -9,6 +9,7 @@ Bu depo, Google Colab'de geliştirilmiş birkaç basit Python mini projesini iç
 3.  Döviz Çevirisi
 4.  Basit Metin Analiz Aracı
 5.  Kapsamlı Birim Dönüştürücü
+6.  Basit Şifre Oluşturucu
 
 ## Projeler
 
@@ -64,6 +65,14 @@ Kullanıcının belirttiği bir metin dosyasını okuyarak kelime sayısını ve
 *  Python ile Geliştirilmiştir: Güçlü ve esnek yazılım altyapısı sayesinde yüksek doğrulukta hesaplamalar yapar.
 
 *  Kullanıcı Dostu Arayüz: Hem komut satırından çalıştırılabilir hem de API entegrasyonu ile harici uygulamalara entegre edilebilir.
+  
+# 6.Basit Şifre Oluşturucu
 
+Bu proje, kullanıcıların hızlı ve kolay bir şekilde güvenli şifreler oluşturmasını sağlayan basit bir Python uygulamasıdır.
+
+## Özellikler
+- Belirtilen uzunlukta rastgele şifre üretimi
+- Harf, rakam ve özel karakter desteği
+- Kullanıcı dostu ve anlaşılır yapı
 
 
