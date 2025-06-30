@@ -1,78 +1,31 @@
-# Python Mini Projeleri
+📁 Python Mini Proje Koleksiyonu
+Bu depo, Python programlama dili kullanılarak geliştirilmiş temel seviye mini projelerden oluşur. Her biri gerçek hayatta işe yarayan problemleri çözmeye odaklanır ve hem öğrenme sürecine hem de uygulamalı gelişime katkı sağlar.
 
-Bu depo, Google Colab'de geliştirilmiş birkaç basit Python mini projesini içermektedir.
+🧩 Proje Açıklamaları
+🎲 Sayı Tahmin Oyunu
+1 ile 100 arasında rastgele seçilen bir sayıyı kullanıcı tahmin etmeye çalışır. Her denemede “daha büyük” veya “daha küçük” gibi yönlendirmeler verir. Basit ama eğlenceli bir sayı tahmin algoritmasıdır.
+🧮 Hesap Makinesi
+Toplama, çıkarma, çarpma ve bölme gibi temel işlemleri yapabilen bir konsol uygulamasıdır. Kullanıcıdan iki sayı ve işlem türü alarak sonucu ekrana yazdırır.
 
-## İçindekiler
+💱 Döviz Çevirici
+Sabit kur oranlarına göre döviz dönüşümü yapan basit bir araçtır. Kullanıcı, çevirmek istediği miktarı ve hedef para birimini seçerek sonucu alabilir.
 
-1.  Sayı Tahmin Oyunu
-2.  Hesap Makinesi
-3.  Döviz Çevirisi
-4.  Basit Metin Analiz Aracı
-5.  Kapsamlı Birim Dönüştürücü
-6.  Basit Şifre Oluşturucu
+📊 Basit Metin Analiz Aracı
+Kullanıcının girdiği metin üzerinde analiz yapar: kelime sayısı, en sık geçen harf, harf frekansı gibi istatistikler sağlar. Metin işleme konularına giriş için idealdir.
 
-## Projeler
+📐 Kapsamlı Birim Dönüştürücü
+Uzunluk, ağırlık, sıcaklık ve daha fazlasını kapsayan dönüştürme işlemleri yapar. Sezgisel menüleri sayesinde farklı birimler arasında kolayca dönüşüm sağlar.
 
-### 1. Sayı Tahmin Oyunu
+🔐 Basit Şifre Oluşturucu
+Belirlenen uzunlukta rastgele büyük/küçük harf, rakam ve sembol kullanarak güçlü şifreler üretir. Güvenlik bilinci oluşturmak için güzel bir örnektir.
 
-1 ile 100 arasında rastgele seçilen bir sayıyı tahmin etmeye çalıştığınız basit bir oyundur. Belirli sayıda hakkınız ve bir skor sisteminiz vardır.
+🎟️ Kura Çekiliş Uygulaması
+Girilen liste içerisinden rastgele bir isim seçerek çekiliş sonucunu belirler. Etkinlikler veya yarışmalar için kullanılabilir.
 
-**Özellikler:**
+🚀 Nasıl Kullanılır
+Projelerin her biri bağımsız çalışmaktadır. Kodları Google Colab üzerinden doğrudan çalıştırabilir, çıktıları anında gözlemleyebilirsiniz.
 
-*   Rastgele sayı üretimi.
-*   Kullanıcıdan sayı girişi alma.
-*   Tahminin doğru sayıdan büyük veya küçük olduğunu bildirme.
-*   Kalan hakları ve skoru takip etme.
+Colab Bağlantısı : https://colab.research.google.com/drive/11FymurKzE8hj59b4iaKVr2kIKwWPyRF1#scrollTo=fBzu0V0sbfHq
 
-### 2. Hesap Makinesi
-
-Temel aritmetik işlemlerin yanı sıra karekök, kare, faktöriyel ve kuvvet alma gibi fonksiyonları içeren basit bir hesap makinesidir.
-
-**Özellikler:**
-
-*   Toplama, Çıkarma, Çarpma, Bölme işlemleri.
-*   Karekök, Kare, Faktöriyel, Kuvvet alma işlemleri.
-*   Sıfıra bölme kontrolü.
-*   Kullanıcı dostu menü.
-
-### 3. Döviz Çevirisi
-
-Belirli döviz kurlarına göre TL ile Dolar, Euro ve Sterlin arasında dönüşüm yapmanızı sağlayan bir araçtır.
-
-**Özellikler:**
-
-*   Önceden tanımlanmış döviz kurları.
-*   Farklı döviz çiftleri arasında dönüşüm yapabilme.
-*   Kullanıcıdan miktar girişi alma.
-
-### 4. Basit Metin Analiz Aracı
-
-Kullanıcının belirttiği bir metin dosyasını okuyarak kelime sayısını ve bazı noktalama işaretlerinin sayısını analiz eden basit bir araçtır.
-
-**Özellikler:**
-
-*   Dosya yolu girişi alma.
-*   Dosya içeriğini okuma.
-*   Kelime sayısını hesaplama.
-*   Belirli noktalama işaretlerinin sayısını bulma (virgül, nokta, soru işareti).
-
-### 5.Kapsamlı Birim Dönüştürücü
-
-*  Kapsamlı Birim Dönüştürücü, farklı ölçü birimlerini kolayca birbirine çeviren bir araçtır.
-
-*  Desteklenen Kategoriler: Uzunluk, ağırlık, sıcaklık, hız gibi birçok ölçü birimi.
-
-*  Python ile Geliştirilmiştir: Güçlü ve esnek yazılım altyapısı sayesinde yüksek doğrulukta hesaplamalar yapar.
-
-*  Kullanıcı Dostu Arayüz: Hem komut satırından çalıştırılabilir hem de API entegrasyonu ile harici uygulamalara entegre edilebilir.
-  
-# 6.Basit Şifre Oluşturucu
-
-Bu proje, kullanıcıların hızlı ve kolay bir şekilde güvenli şifreler oluşturmasını sağlayan basit bir Python uygulamasıdır.
-
-## Özellikler
-- Belirtilen uzunlukta rastgele şifre üretimi
-- Harf, rakam ve özel karakter desteği
-- Kullanıcı dostu ve anlaşılır yapı
 
 
