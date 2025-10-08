@@ -1,31 +1,38 @@
-📁 Python Mini Proje Koleksiyonu
-Bu depo, Python programlama dili kullanılarak geliştirilmiş temel seviye mini projelerden oluşur. Her biri gerçek hayatta işe yarayan problemleri çözmeye odaklanır ve hem öğrenme sürecine hem de uygulamalı gelişime katkı sağlar.
+# 🛠️ Python Mini Projelerim
 
-🧩 Proje Açıklamaları
-🎲 Sayı Tahmin Oyunu
-1 ile 100 arasında rastgele seçilen bir sayıyı kullanıcı tahmin etmeye çalışır. Her denemede “daha büyük” veya “daha küçük” gibi yönlendirmeler verir. Basit ama eğlenceli bir sayı tahmin algoritmasıdır.
-🧮 Hesap Makinesi
-Toplama, çıkarma, çarpma ve bölme gibi temel işlemleri yapabilen bir konsol uygulamasıdır. Kullanıcıdan iki sayı ve işlem türü alarak sonucu ekrana yazdırır.
+Bu repo, Python dilinde geliştirdiğim çeşitli mini projeleri içermektedir. Her proje, belirli bir problemi çözmek veya günlük hayatta kullanılabilecek pratik bir araç sunmak amacıyla tasarlanmıştır.
 
-💱 Döviz Çevirici
-Sabit kur oranlarına göre döviz dönüşümü yapan basit bir araçtır. Kullanıcı, çevirmek istediği miktarı ve hedef para birimini seçerek sonucu alabilir.
+## 📁 Proje Listesi
 
-📊 Basit Metin Analiz Aracı
-Kullanıcının girdiği metin üzerinde analiz yapar: kelime sayısı, en sık geçen harf, harf frekansı gibi istatistikler sağlar. Metin işleme konularına giriş için idealdir.
+| Proje Adı                     | Açıklama                                                                 |
+|------------------------------|--------------------------------------------------------------------------|
+| Sayı Tahmin Oyunu            | Rastgele sayı tahmini ile kullanıcıya eğlenceli bir oyun deneyimi sunar. |
+| Hesap Makinesi               | Dört işlem yapabilen basit bir hesaplama aracı.                         |
+| Döviz Çeviricisi             | Anlık döviz kurlarıyla para birimi dönüşümü sağlar.                     |
+| Basit Metin Analiz Aracı     | Girilen metnin kelime ve harf istatistiklerini çıkarır.                 |
+| Kapsamlı Birim Dönüştürücü   | Uzunluk, ağırlık, sıcaklık gibi birimler arasında dönüşüm yapar.        |
+| Basit Şifre Oluşturucu       | Güvenli ve rastgele şifreler üretir.                                    |
+| Kura Çekiliş Uygulaması      | Belirtilen katılımcılar arasında rastgele seçim yapar.                  |
+| Maaş Hesaplama Aracı         | Brüt maaş üzerinden net maaş hesaplaması yapar.                         |
 
-📐 Kapsamlı Birim Dönüştürücü
-Uzunluk, ağırlık, sıcaklık ve daha fazlasını kapsayan dönüştürme işlemleri yapar. Sezgisel menüleri sayesinde farklı birimler arasında kolayca dönüşüm sağlar.
+## 🚀 Kurulum
 
-🔐 Basit Şifre Oluşturucu
-Belirlenen uzunlukta rastgele büyük/küçük harf, rakam ve sembol kullanarak güçlü şifreler üretir. Güvenlik bilinci oluşturmak için güzel bir örnektir.
+Projeleri çalıştırmak için aşağıdaki adımları izleyin:
+```bash
+git clone https://github.com/Bekdemirberat2/Python_Project.git
+cd Python_Project
 
-🎟️ Kura Çekiliş Uygulaması
-Girilen liste içerisinden rastgele bir isim seçerek çekiliş sonucunu belirler. Etkinlikler veya yarışmalar için kullanılabilir.
+Her proje ayrı bir .ipynb dosyası olarak düzenlenmiştir. Google Colab veya Jupyter Notebook ile açabilirsiniz.
 
-🚀 Nasıl Kullanılır
-Projelerin her biri bağımsız çalışmaktadır. Kodları Google Colab üzerinden doğrudan çalıştırabilir, çıktıları anında gözlemleyebilirsiniz.
+📌 Kullanım
+Her dosyanın başında kullanım talimatları ve örnek girdiler yer almaktadır. Kodlar yorum satırlarıyla desteklenmiştir.
 
-Colab Bağlantısı : https://colab.research.google.com/drive/11FymurKzE8hj59b4iaKVr2kIKwWPyRF1#scrollTo=fBzu0V0sbfHq
+🧠 Amaç
+Bu projelerle Python becerilerimi geliştirmeyi, pratik araçlar üretmeyi ve açık kaynak dünyasına katkı sağlamayı hedefliyorum.
+
+📫 İletişim
+Her türlü öneri, geri bildirim veya iş birliği için benimle GitHub üzerinden iletişime geçebilirsiniz.
+
 
 
 
